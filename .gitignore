@@ -1,0 +1,14 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+.env
+
+#build files
+/dev-build
+/prod-build
+
